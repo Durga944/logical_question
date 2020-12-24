@@ -1,0 +1,15 @@
+a=26
+b=25
+c=5
+if(a%2==0):
+    print(a,"even")
+else:
+    print(a,"odd")
+if(b%2==0):
+    print(b,"even")
+else:
+    print(b,"odd")
+if(c%2==0):
+    print(c,"even")
+else:
+    print(c,"odd")
